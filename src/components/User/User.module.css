@@ -1,0 +1,10 @@
+.user {
+	max-width: 1170px;
+	max-height: 300px;
+	margin: 0 auto;
+	text-align: center;
+}
+.ava {
+	position: relative;
+	bottom: 230px;
+}

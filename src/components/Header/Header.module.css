@@ -1,0 +1,27 @@
+.header {
+	background: #fff;
+	max-height: 80px;
+}
+
+a {
+	color: #000;
+}
+span {
+	color: orange;
+}
+.wrapper {
+	max-width: 1170px;
+
+	margin: 0 auto;
+	display: grid;
+	grid-template-columns: 15fr 1fr 1fr;
+	align-items: center;
+}
+.title {
+	font-size: 36px;
+	display: flex;
+	align-items: center;
+}
+.set {
+	width: 20px;
+}
